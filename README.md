@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Santriana
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in Cloud Engineering
 - 🌱 I’m currently learning Engineering Physics
-- 💞️ I’m looking to collaborate on Software Engineering
+- 💞️ I’m looking to collaborate on Cloud Engineering
 - 📫 How to reach me 
 
 <!---
