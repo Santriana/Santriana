@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Santriana Pratama
 - 👀 I’m interested in Machine Learning and AI Engineer
 - 🌱 I’m currently learning Engineering Physics
-- 💞️ I’m looking to collaborate on Machine Learning and AI Scope
+- 💞️ I’m looking to collaborate on Machine Learning and AI Related Field
 - 📫 How to reach me 
 
 <!---
